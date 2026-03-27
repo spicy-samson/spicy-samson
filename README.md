@@ -16,7 +16,7 @@
 * Vue.js | Nuxt.js | React | TypeScript
 
 **Backend**
-* Go | .NET
+* NodeJS
 
 **Database & BaaS**
 * Firebase
