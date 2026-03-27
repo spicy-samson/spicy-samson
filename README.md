@@ -1,6 +1,6 @@
 # Hola! 👋, Third here.
 
-**Junior Full-Stack Developer | DevOps Enthusiast
+**Junior Full-Stack Developer | DevOps Enthusiast**
 
 ### 👨‍💻 About Me
 
