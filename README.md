@@ -1,4 +1,4 @@
-# Hi 👋, I'm Third
+# Hola! 👋, Third here.
 
 **Junior Full-Stack Developer | DevOps Enthusiast
 
