@@ -1,6 +1,6 @@
 # Hi 👋, I'm Third
 
-**Junior Full-Stack Developer | DevOps Enthusiast | Keyboard Power-User**
+**Junior Full-Stack Developer | DevOps Enthusiast
 
 ### 👨‍💻 About Me
 
@@ -29,9 +29,6 @@
 I’m currently expanding my skills and interests in:
 * DevOps automation (like configuring production-grade cron jobs)
 * OverTheWire Bandit wargames for terminal mastery
-* Learning to drive a manual car 
-* Content creation and brand building
-* Vocal training (specifically trying to hit those high-pitched Michael Bublé notes!)
 
 ### 🔥 GitHub Stats
 
