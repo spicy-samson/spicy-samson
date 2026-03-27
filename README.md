@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @spicy-samson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-
-<!---
-spicy-samson/spicy-samson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @spicy-samson (but you can call me Third!). I'm a Junior Full-Stack Developer and DevOps Engineer.
+- 👀 I’m interested in building robust web apps and streamlining deployments. My go-to tech includes TypeScript, Vue.js, Cloudflare, and Firebase.
+- 🌱 I’m currently learning .NET for backend development, diving deeper into Go, and sharpening my Linux command-line skills with the OverTheWire Bandit wargames. I'm also currently putting together a new Vue 3 + Firebase application.
+- 💞️ I’m looking to collaborate on full-stack projects, especially anything involving Nuxt.js, React, or building out creative UI designs like scroll-snapping portfolios.
+- 📫 How to reach me: You can check out my work right here on GitHub, or catch my upcoming content over on TikTok at @spicysamson.
+- ⚡ Fun fact: I'm a massive fan of navigating strictly via keyboard (mouse who?). When I'm away from the terminal, I'm usually training in boxing, learning to drive a manual car, or trying to hit the high-pitched notes in a Michael Bublé song!
