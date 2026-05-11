@@ -28,11 +28,10 @@
 
 I’m currently expanding my skills and interests in:
 * DevOps automation (like configuring production-grade cron jobs)
-* OverTheWire Bandit wargames for terminal mastery
+* AWS
 
 ### 🔥 GitHub Stats
 
 ### 📫 Connect With Me
 
 * **GitHub:** [github.com/spicy-samson](https://github.com/spicy-samson)
-* **TikTok:** [@spicysamson](https://www.tiktok.com/@spicysamson)
